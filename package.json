@@ -1,0 +1,19 @@
+{
+  "name": "openjsx-extensions-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Stolyar <nekr.fabula@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "incremental-dom": "^0.2.0",
+    "jsx-runtime": "git://github.com/OpenJSX/jsx-runtime.git#v2",
+    "jsx-streams": "git://github.com/OpenJSX/jsx-streams.git",
+    "jsx-to-dom": "git://github.com/OpenJSX/jsx-to-dom.git#v2",
+    "jsx-to-html": "git://github.com/OpenJSX/jsx-to-html.git#v2",
+    "jsx-to-idom": "git://github.com/OpenJSX/jsx-to-idom.git#v2"
+  }
+}
